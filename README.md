@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/Leonardo%20R%20Miguel-blue.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="Linkedin">
 </a>
 
-<a href="https://img.shields.io/badge/-stackoverflow-f48024?style=flat-square&logoColor=white&logo=StackOverflow&link=https://stackoverflow.com/users/14613012/leonardo-r-miguel" target="_blank">
+<a href="https://stackoverflow.com/users/14613012/leonardo-r-miguel" target="_blank">
    <img src="https://img.shields.io/badge/-stackoverflow-f48024?style=flat-square&logoColor=white&logo=StackOverflow" alt="StackOverflow">
 </a>
 
